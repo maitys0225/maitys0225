@@ -3,7 +3,7 @@
 From crafting my first C program to architecting AI-driven cloud solutions, my journey in tech has been one of constant learning and innovation. With **20+ years of experience** in **cloud computing, data engineering, and AI/ML**, I thrive on solving complex challenges and building scalable, high-performance platforms.  
 
 ## 🏗️ Built & Led:
-- **Multi-tenant Data Mesh & Virtualization Platforms** at UBS  
+- **Multi-tenant Data Mesh & Virtualization Platforms** at UBS
 - **AI-powered Cloud Automation Frameworks** optimizing efficiency  
 - **Scalable data pipelines & analytics platforms** in Azure & AWS  
 
